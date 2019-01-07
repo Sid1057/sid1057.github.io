@@ -1,5 +1,4 @@
-title:            Sid1057
-tagline:          'Tagline'
-description:      'description'
-url:              http://localhost:8000
+title:            Sid1057 personal page
+description:      There will be my articles, posts and different things about coding and me.
+logo: https://avatars3.githubusercontent.com/u/12153757?s=460&v=4
 theme: jekyll-theme-minimal
