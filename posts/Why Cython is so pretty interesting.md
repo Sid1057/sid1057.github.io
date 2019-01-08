@@ -1,5 +1,7 @@
 
-### Let's speak ~~from my heart~~ about cython
+## Let's speak ~~from my heart~~ about cython
+
+#### *Sorry, this article will be done later*
 
 And science we are developers, we will use code right here.
 
@@ -10,17 +12,12 @@ I don't want to do boring things later. So I include numpy, cython compiler in I
 %load_ext autotime
 ```
 
-    The autotime extension is already loaded. To reload it, use:
-      %reload_ext autotime
-    time: 3.48 ms
-
-
 
 ```python
 import numpy as np
 ```
 
-    time: 424 µs
+    time: 132 ms
 
 
 
@@ -29,18 +26,24 @@ import numpy as np
 %load_ext autotime
 ```
 
-    The cython extension is already loaded. To reload it, use:
-      %reload_ext cython
     The autotime extension is already loaded. To reload it, use:
       %reload_ext autotime
-    time: 4.1 ms
+    time: 342 ms
+
+
+
+```python
+sections = 1000000
+```
+
+    time: 1.18 ms
 
 
 I would like to do this topic as short and informative as possible. And the format which i choose - to show 5 most obviously reasons for using cython in your projects right now.
 
-### 5 reasons to use cython instead python
+## 5 reasons to use cython instead python
 
-#### 1: for using cython you could stay code as it exist
+### 1: for using cython you could stay code as it exist
 
 We define to python functions: some f(x) and integrator. Each reason will modificate this code. Every next reason for using cython will change your code more, but also it would have better effect.
 
@@ -58,24 +61,24 @@ def integrate_f(a, b, N):
     
 ```
 
-    time: 3.22 ms
+    time: 3.35 ms
 
 
 Important note: initialization of python function (at least in jupyter notebook) faster then cython function. But it's only initialization!
 
 
 ```python
-integrate_f(0, 10, 100000000)
+integrate_f(0, 10, sections)
 ```
 
 
 
 
-    283.33332883333867
+    283.3328833334909
 
 
 
-    time: 29.4 s
+    time: 337 ms
 
 
 That's time for python function to calculate integral of f(x) on [0, 10] with 10 million sections.
@@ -95,43 +98,45 @@ def integrate_f_cython(a, b, N):
     return s * dx
 ```
 
-    time: 2.9 ms
+    time: 16.7 ms
 
 
 
 ```python
-integrate_f_cython(0, 10, 100000000)
+integrate_f_cython(0, 10, sections)
 ```
 
 
 
 
-    283.33332883333867
+    283.3328833334909
 
 
 
-    time: 21.6 s
+    time: 240 ms
 
+
+#### Total:
 
 So in my notebook I have speed ~ x1.33 without any changes in my code. Probably, it's my favorite thing in Cython. Nobody require some actions from you: just replace python on cython. Just use %%cython in your jupyter or add setup file to compile your code in object module.
 
-#### 2: you could use fast types conversion
+### 2: you could use fast types conversion
 
 What if i want to do requirement for my function: numbers in interval have to be integer.
 
 
 ```python
-integrate_f(0, 10.1, 100000000)
+integrate_f(0, 10.1, sections)
 ```
 
 
 
 
-    292.4286620252542
+    292.42820252133953
 
 
 
-    time: 30.1 s
+    time: 328 ms
 
 
 It's a bad behaviour for my requirement. I have to change my integrate_f function:
@@ -149,18 +154,18 @@ def integrate_f_ver2(a, b, N):
     
 ```
 
-    time: 1.47 ms
+    time: 4.98 ms
 
 
 
 ```python
-print(integrate_f(0, 10.1, 100000000))
-print(integrate_f_ver2(0, 10.1, 100000000))
+print(integrate_f(0, 10.1, sections))
+print(integrate_f_ver2(0, 10.1, sections))
 ```
 
-    292.4286620252542
-    283.33332883333867
-    time: 1min 1s
+    292.42820252133953
+    283.3328833334909
+    time: 623 ms
 
 
 Works pretty, but how to do this in cython?
@@ -180,21 +185,23 @@ def integrate_f_cython_ver2(int a, int b, N):
     return s * dx
 ```
 
-    time: 2.6 ms
+    time: 11 ms
 
 
 
 ```python
-print(integrate_f_cython(0, 10.1, 100000000))
-print(integrate_f_cython_ver2(0, 10.1, 100000000))
+print(integrate_f_cython(0, 10.1, sections))
+print(integrate_f_cython_ver2(0, 10.1, sections))
 ```
 
-    292.4286620252542
-    283.33332883333867
-    time: 43.7 s
+    292.42820252133953
+    283.3328833334909
+    time: 484 ms
 
 
-#### 3: you could make your code faster very well
+#### Total:
+
+### 3: you could make your code faster very well
 
 Let's add some C stuff in Cython:
 
@@ -202,80 +209,83 @@ Let's add some C stuff in Cython:
 ```cython
 %%cython
 
-import numpy as np
 
 cdef float f_cython(x):
     return x**2-x
 
-cdef float integrate_f_cython_ver3(int a, int b, int N):
+cpdef float integrate_f_cython_ver3(int a, int b, int N):
     cdef float s = 0
     cdef float dx = (b-a)/N
-    cdef int i
+    cdef int i 
     
-    for i in np.arange(N):
+    for i in range(N):
         s += f_cython(a + dx * i)
     return s * dx
 ```
 
-    time: 2.75 ms
+    time: 421 ms
 
 
 
 ```python
-integrate_f_ver2(0, 10.1, 100000000)
+integrate_f_ver2(0, 10.1, sections)
 ```
 
 
 
 
-    283.33332883333867
+    283.3328833334909
 
 
 
-    time: 29.6 s
+    time: 340 ms
 
 
 
 ```python
-integrate_f_cython_ver2(0, 10.1, 100000000)
+integrate_f_cython_ver2(0, 10.1, sections)
 ```
 
 
 
 
-    283.33332883333867
+    283.3328833334909
 
 
 
-    time: 21.9 s
+    time: 233 ms
 
 
 
 ```python
-integrate_f_cython_ver3(0, 10.1, 100000000)
+integrate_f_cython_ver3(0, 10.1, sections)
 ```
 
 
 
 
-    283.33332883333867
+    283.33111572265625
 
 
 
-    time: 22 s
+    time: 97 ms
 
 
-**WTF?**
+#### Total:
 
-## 3: you could use functions from C and C++ which haven't bindings to python
+### 3: you could use functions from C and C++ which haven't bindings to python
 
 For me it was CUDA functions in OpenCV
 
-## 5: you can use a simple mechanism to do effective multithreading behaviour
+### 5: you can use a simple mechanism to do effective multithreading behaviour
 
 ## Conclusion
 
 
+
+## Recommendations for reading:
+
+## P.S.:
 
 
 ```python
