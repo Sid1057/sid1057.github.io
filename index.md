@@ -46,4 +46,4 @@
 
 ### Contact me
 
-[email](mailto:ivanov.dale@gmail.com)
+[email: ivanov.dale@gmail.com](mailto:ivanov.dale@gmail.com)
