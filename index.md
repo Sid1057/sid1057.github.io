@@ -20,7 +20,7 @@
 
 #### Libraries and frameworks
 
-##### computer vision and machine learning
+##### computer vision and machine learning:
 
 | Name          | What and why     |
 | ------------- |------------------|
@@ -28,7 +28,7 @@
 | PyTorch     | Fashionable, comfortable, powerful and beautiful. |
 | Torchvision | Good way for dataset transformations. |
 
-##### web
+##### web:
 
 | Name          | What and why     |
 | ------------- |------------------|
@@ -36,7 +36,7 @@
 | Flask      | It's simple when you need to build something simple. It's flexible when you need to build something difficult. |
 | axios      | Better then use JQuery for that. |
 
-#### books
+#### Books
 
 | Name          | What and why     |
 | ------------- |------------------|
