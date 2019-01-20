@@ -2,7 +2,7 @@
 
 ### Posts
 
-[Why Cython is so pretty interesting](./posts/developing/Why Cython is so pretty interesting.html).
+[Why Cython is so pretty interesting](/posts/developing/Why Cython is so pretty interesting.html).
 
 ### Open Source projects which I currently develop
 
