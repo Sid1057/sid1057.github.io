@@ -1,5 +1,3 @@
-## Developing
-
 ### Posts
 
 #### Python
@@ -21,6 +19,7 @@
 | Name | description |
 |------|-------------|
 | [Service utils](https://github.com/Sid1057/service_utils) | Simple package for quick and easy microservices logging and configuration.  |
+| [RobotVisionToolkit](https://github.com/Sid1057/RobotVisionToolkit) | library for providing instruments for creating fast (in development and excecution) machine vision applications |
 | ClojureScript HTML5 api library | Easy to use some methods of html5 api such a vibration, storage and moreover. |
 | [PyTorch Net Wrap](https://github.com/Sid1057/PyTorch-Net-wrap) | Wrapper class for keras-like use of neural networks at the training stage, an automatic study of parameters and implementation of important built-in methods. |
 
