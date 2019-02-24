@@ -2,7 +2,19 @@
 
 ### Posts
 
+#### Python
+
 [Why Cython is so pretty interesting](/posts/developing/Why Cython is so pretty interesting.html).
+
+#### ML how to
+
+1. [Create CIFAR10 classifier](https://github.com/Sid1057/pytorch_playground/blob/master/cifar10.ipynb)
+2. [Create classic autoencoder (example with mnist)](https://github.com/Sid1057/pytorch_playground/blob/master/Autoencoders.ipynb)
+3. [Create denoising autoencoder (example with steganography) (RUS)](https://github.com/Sid1057/pytorch_playground/blob/master/DAE.ipynb)
+4. [Create LeNet fully convolutional and additional empty class (example with MNIST)](https://github.com/Sid1057/pytorch_playground/blob/master/LeNet%20with%20wrap%20on%20MNIST.ipynb)
+5. [Use pretrained models in pytorch](https://github.com/Sid1057/pytorch_playground/blob/master/Using%20pretrained%20model.ipynb)
+6. [Create FCN. Part 1. Heat map](https://github.com/Sid1057/pytorch_playground/blob/master/FCN%20heat%20map.ipynb)
+
 
 ### Open Source projects which I currently develop
 
