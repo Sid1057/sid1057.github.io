@@ -1,4 +1,4 @@
-### Posts
+# Posts
 
 #### Python
 
@@ -14,7 +14,7 @@
 6. [Create FCN. Part 1. Heat map](https://github.com/Sid1057/pytorch_playground/blob/master/FCN%20heat%20map.ipynb)
 
 
-### Open Source projects which I currently develop
+# Open Source projects which I currently develop
 
 | Name | description |
 |------|-------------|
@@ -24,7 +24,7 @@
 | [PyTorch Net Wrap](https://github.com/Sid1057/PyTorch-Net-wrap) | Wrapper class for keras-like use of neural networks at the training stage, an automatic study of parameters and implementation of important built-in methods. |
 
 
-### My favorite libraries, languages, frameworks, standarts and other recomendations
+# My favorite libraries, languages, frameworks, standarts and other recomendations
 
 #### Languages
 
