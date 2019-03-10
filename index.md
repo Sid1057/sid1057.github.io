@@ -4,6 +4,9 @@
 
 [Why Cython is so pretty interesting](/posts/developing/Why Cython is so pretty interesting.html).
 
+#### Development:
+*coming soon*
+
 #### ML how to:
 
 1. [Create CIFAR10 classifier](https://github.com/Sid1057/pytorch_playground/blob/master/cifar10.ipynb)
