@@ -1,10 +1,10 @@
 # Posts
 
-#### Python
+#### Python:
 
 [Why Cython is so pretty interesting](/posts/developing/Why Cython is so pretty interesting.html).
 
-#### ML how to
+#### ML how to:
 
 1. [Create CIFAR10 classifier](https://github.com/Sid1057/pytorch_playground/blob/master/cifar10.ipynb)
 2. [Create classic autoencoder (example with mnist)](https://github.com/Sid1057/pytorch_playground/blob/master/Autoencoders.ipynb)
@@ -14,7 +14,7 @@
 6. [Create FCN. Part 1. Heat map](https://github.com/Sid1057/pytorch_playground/blob/master/FCN%20heat%20map.ipynb)
 
 
-# Open Source projects which I currently develop
+# Open Source projects
 
 | Name | description |
 |------|-------------|
@@ -24,7 +24,7 @@
 | [PyTorch Net Wrap](https://github.com/Sid1057/PyTorch-Net-wrap) | Wrapper class for keras-like use of neural networks at the training stage, an automatic study of parameters and implementation of important built-in methods. |
 
 
-# My favorite libraries, languages, frameworks, standarts and other recomendations
+# Favorite
 
 #### Languages
 
