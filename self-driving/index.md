@@ -6,7 +6,9 @@
 
 Мастер-класс 2019.11.02 
 
-[Презентация]((./projects/speed/)) | [Ноутбук](https://nbviewer.jupyter.org/urls/sid1057.github.io/self-driving/projects/speed/Sirius.ipynb)<!-- | [Код проекта]()-->
+[Презентация]((./projects/speed/)) | [Ноутбук](https://nbviewer.jupyter.org/urls/sid1057.github.io/self-driving/projects/speed/Sirius.ipynb)
+
+<!-- | [Код проекта]()-->
 
 <!--[Speed game](./projects/speed/)-->
 
