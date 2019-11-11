@@ -4,7 +4,14 @@
 
 [Why Cython is so pretty interesting](/posts/developing/Why Cython is so pretty interesting.html).
 
-#### Development:
+#### Self-driving vehicles:
+
+[How to develop a self-driving car in 1.5 hours](/self-driving/).
+
+#### Development & software engineering:
+*coming soon*
+
+#### Management:
 *coming soon*
 
 #### ML how to:
@@ -22,9 +29,8 @@
 | Name | description |
 |------|-------------|
 | [Service utils](https://github.com/Sid1057/service_utils) | Simple package for quick and easy microservices logging and configuration.  |
-| [RobotVisionToolkit](https://github.com/Sid1057/RobotVisionToolkit) | library for providing instruments for creating fast (in development and excecution) machine vision applications |
+| [Self-driving cars utils](https://github.com/Sid1057/self-driving-cars-utils) | Pretrained models, reusable code, classes for devices.  |
 | ClojureScript HTML5 api library | Easy to use some methods of html5 api such a vibration, storage and moreover. |
-| [PyTorch Net Wrap](https://github.com/Sid1057/PyTorch-Net-wrap) | Wrapper class for keras-like use of neural networks at the training stage, an automatic study of parameters and implementation of important built-in methods. |
 
 
 # Favorite
@@ -36,6 +42,7 @@
 | [Python](python.org)      | If you know that you want to build something,  if you know how it should look at the end, probably the fastest way to do that - use python. Beautiful, powerful, beautiful. |
 | [Clojure](clojure.org)     | Lisp-like language. Your code is part of data; your data is part of the code. Functional paradigma, metaprogramming, a lot of brackets and big beautiful thinks realized in short, beautiful lines of code. |
 | [Cython](cython.org)      | You can use python and replace some parts of the code in python-like syntax sugar for pure C language. Pythonic way delicious, hardcore pure C power. |
+| [C++](https://isocpp.org/)      | Sometimes you have to do it. |
 
 #### Libraries and frameworks
 
@@ -63,3 +70,6 @@
 | The Humane Interface: New Directions for Designing Interactive Systems by Jef Raskin | This book about beauty in program and calculations in interface. One of my favorite books. |
 | Data Science from Scratch - O'Reilly Media | Good start for understanding this stuff. |
 
+# Contacts
+
+[linkedin](https://www.linkedin.com/in/ivan-deylid)
