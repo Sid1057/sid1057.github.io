@@ -20,7 +20,7 @@
 
 Мастер-класс 2019.11.02 
 
-[Презентация (RU)](/projects/speed/) | [Ноутбук (RU)](https://nbviewer.jupyter.org/urls/sid1057.github.io/self-driving/projects/speed/Sirius.ipynb)
+[Презентация (RU)](/self-driving/projects/speed/) | [Ноутбук (RU)](https://nbviewer.jupyter.org/urls/sid1057.github.io/self-driving/projects/speed/Sirius.ipynb)
 
 <!-- | [Код проекта]()-->
 
