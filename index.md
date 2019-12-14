@@ -52,7 +52,8 @@
 | ------------- |------------------|
 | [OpenCV](opencv.org)      | Just OpenCV. Must have in every computer vision task. |
 | [PyTorch](pytorch.org)     | Fashionable, comfortable, powerful and beautiful. |
-| [Torchvision](https://pytorch.org/docs/stable/torchvision/) | Good way for dataset transformations. |
+| [VisionWorks](https://developer.nvidia.com/embedded/visionworks) | Cool library for computer vision stuff optimized for jetsons. |
+| [Open3D](https://open3d.org/) | The 'Open CV' for 3D points cloud. |
 
 ##### web:
 
