@@ -6,6 +6,10 @@
 
 #### Self-driving vehicles:
 
+Синтез данных с помощью CARLA (video) (RUS)
+
+[![Синтез данных с помощью CARLA](https://img.youtube.com/vi/1td98TX4XvU/0.jpg)](https://www.youtube.com/watch?v=1td98TX4XvU)
+
 [How to develop a self-driving car in 1.5 hours](/self-driving/).
 
 #### Development & software engineering:
