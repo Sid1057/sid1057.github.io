@@ -6,6 +6,9 @@
 
 #### Self-driving vehicles:
 
+[Применение методов машинного обучения для решения задачи
+обнаружения препятствий с помощью стереозрения (pdf) (RUS)](https://github.com/Sid1057/sid1057.github.io/raw/master/papers/Deylid_43504_1_.pdf).
+
 Синтез данных с помощью CARLA (video) (RUS)
 
 [![Синтез данных с помощью CARLA](https://img.youtube.com/vi/1td98TX4XvU/0.jpg)](https://www.youtube.com/watch?v=1td98TX4XvU)
