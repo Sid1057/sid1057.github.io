@@ -1,0 +1,20 @@
+- default: menu_index
+  url:   ""
+
+- default: menu_category
+  url:   "category"
+
+- title: "GitHub"
+  absoluteUrl: true
+  url: "https://www.github.com/sid1057"
+
+- title: "YouTube"
+  absoluteUrl: true
+  url: "https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg"
+
+- title: "LinkedIn"
+  absoluteUrl: true
+  url: "https://www.linkedin.com/in/ivan-deylid/"
+
+- default: menu_about
+  url:   "about"

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Applying machine learning methods to solve a problem obstacle detection using stereo vision"
+date:   2020-01-21
+last_modified_at: 2020-01-21
+categories: [tldr]
+tags: [machine-learning, self-driving]
+---
+
+My bachelor's work about applying machine learning methods to solve a problem obstacle detection using stereo vision.
+
+Now it is somewhat outdated, but the approach to combining the methods of classical computer vision and machine learning is still relevant.
+
+<hr/>
+[Paper link](/assets/pdf/Deylid_43504_1_.pdf)
+<hr/>
+
+Russian langugage.

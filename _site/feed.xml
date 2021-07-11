@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-12T00:40:36+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sid1057</title><subtitle>computer vision software engineer.</subtitle><entry><title type="html">Midas comparison</title><link href="http://localhost:4000/2021/07/11/midas-comarison" rel="alternate" type="text/html" title="Midas comparison" /><published>2021-07-11T00:00:00+03:00</published><updated>2021-07-11T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/11/midas-comarison</id><content type="html" xml:base="http://localhost:4000/2021/07/11/midas-comarison">&lt;p&gt;Midas comparison&lt;/p&gt;
+
+&lt;p&gt;Full text will be added later…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=90wuushenn0&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/90wuushenn0/0.jpg&quot; alt=&quot;Midas comparison&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="experiment" /><category term="manual" /><category term="review" /><category term="self-driving" /><category term="cars" /><category term="perception" /><category term="monocular depth" /><category term="CARLA" /><summary type="html">Midas comparison</summary></entry><entry><title type="html">GitHub Digest 2021-07-08</title><link href="http://localhost:4000/2021/07/08/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-07-08" /><published>2021-07-08T00:00:00+03:00</published><updated>2021-07-08T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/08/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/07/08/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/SforAiDl/KD_Lib&quot;&gt;&lt;code&gt;KD_Lib&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/SforAiDl/KD_Lib&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/SforAiDl_KD_Lib.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: interesting. Mey be used for switching your VGG20000 network in production.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/opendilab/DI-drive&quot;&gt;&lt;code&gt;DI-drive&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/opendilab/DI-drive&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/opendilab_DI-drive.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: waiting for next carla challenge.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/ucuapps/single-view-autocalib&quot;&gt;&lt;code&gt;single-view-autocalib&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/ucuapps/single-view-autocalib&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/ucuapps_single-view-autocalib.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: useful for high distorsion lenses. In others keys just multiply vector by zero.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">KD_Lib Review: interesting. Mey be used for switching your VGG20000 network in production.</summary></entry><entry><title type="html">GitHub Digest 2021-06-29</title><link href="http://localhost:4000/2021/06/29/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-06-29" /><published>2021-06-29T00:00:00+03:00</published><updated>2021-06-29T00:00:00+03:00</updated><id>http://localhost:4000/2021/06/29/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/06/29/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/windmaple/awesome-AutoML&quot;&gt;&lt;code&gt;awesome-AutoML&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/windmaple/awesome-AutoML&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/windmaple_awesome-AutoML.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: yet another list. About NAS etc. Interesting for research. Interesting for startups.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Tencent/Real-SR&quot;&gt;&lt;code&gt;Real-SR&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Tencent/Real-SR&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/Tencent_Real-SR.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: very good super-resolution repository. Have to see deeper.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Obs01ete/lidar_course&quot;&gt;&lt;code&gt;lidar_course&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Obs01ete/lidar_course&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/Obs01ete_lidar_course.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: good start point for learning how to use lidars.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">awesome-AutoML Review: yet another list. About NAS etc. Interesting for research. Interesting for startups.</summary></entry><entry><title type="html">GitHub Digest 2021-06-22</title><link href="http://localhost:4000/2021/06/22/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-06-22" /><published>2021-06-22T00:00:00+03:00</published><updated>2021-06-22T00:00:00+03:00</updated><id>http://localhost:4000/2021/06/22/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/06/22/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://youtu.be/eOL_rCK59ZI&quot;&gt;&lt;code&gt;Workshop on Autonomous Driving at CVPR'21&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=eOL_rCK59ZI&quot;&gt;
+    &lt;img src=&quot;https://img.youtube.com/vi/eOL_rCK59ZI/0.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: must be seeing.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/ixaxaar/awesome-engineering-management&quot;&gt;&lt;code&gt;awesome-engineering-management&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/ixaxaar/awesome-engineering-management&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/ixaxaar_awesome-engineering-management.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: managment stuff. List. Evening reading.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/facebookresearch/xcit&quot;&gt;&lt;code&gt;xcit&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/facebookresearch/xcit&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/facebookresearch_xcit.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: looks beauty, waiting for +100500% accuracy.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://youtu.be/BV4EXwlb3yo&quot;&gt;&lt;code&gt;Drago Anguelov – Machine Learning for Autonomous Driving at Scale&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=BV4EXwlb3yo&quot;&gt;
+    &lt;img src=&quot;https://img.youtube.com/vi/BV4EXwlb3yo/0.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: from CVPR 2020 workshop. Interesting presentation about technology scaling.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">Workshop on Autonomous Driving at CVPR'21 Review: must be seeing.</summary></entry><entry><title type="html">GitHub Digest 2021-06-15</title><link href="http://localhost:4000/2021/06/15/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-06-15" /><published>2021-06-15T00:00:00+03:00</published><updated>2021-06-15T00:00:00+03:00</updated><id>http://localhost:4000/2021/06/15/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/06/15/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/XuehaiPan/nvitop&quot;&gt;&lt;code&gt;nvitop&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/XuehaiPan/nvitop&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/XuehaiPan_nvitop.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: ex of your girlfriend if you are nvidia-smi.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/jason718/awesome-self-supervised-learning&quot;&gt;&lt;code&gt;awesome-self-supervised-learning&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/jason718/awesome-self-supervised-learning&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/jason718_awesome-self-supervised-learning.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: yet another paper list.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/alexandrx/lidar_cloud_to_image&quot;&gt;&lt;code&gt;lidar_cloud_to_image&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/alexandrx/lidar_cloud_to_image&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/alexandrx_lidar_cloud_to_image.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: great stuff for sensof fusion and monocular depth prediction dataset generation.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/nianticlabs/wavelet-monodepth&quot;&gt;&lt;code&gt;wavelet-monodepth&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/nianticlabs/wavelet-monodepth&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/nianticlabs_wavelet-monodepth.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: seems interesting.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=LMsWJEHTIXI&quot;&gt;&lt;code&gt;Motion Prediction for Vulnerable Road Users&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://www.youtube.com/watch?v=LMsWJEHTIXI&quot;&gt;
+    &lt;img src=&quot;https://img.youtube.com/vi/LMsWJEHTIXI/0.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: it's very good video for understanding the problem of human motion prediction for self-driving cars.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/ibraheemdev/modern-unix&quot;&gt;&lt;code&gt;modern-unix&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/ibraheemdev/modern-unix&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/ibraheemdev_modern-unix.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: GREAT. PERFECT. I USE IT AS START POINT FOR MY LINUX INSTALLATION. LAST NOT LEAST.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">nvitop Review: ex of your girlfriend if you are nvidia-smi.</summary></entry><entry><title type="html">GitHub Digest 2021-06-04</title><link href="http://localhost:4000/2021/06/04/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-06-04" /><published>2021-06-04T00:00:00+03:00</published><updated>2021-06-04T00:00:00+03:00</updated><id>http://localhost:4000/2021/06/04/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/06/04/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/sunglok/3dv_tutorial&quot;&gt;&lt;code&gt;3dv_tutorial&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/sunglok/3dv_tutorial&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/sunglok_3dv_tutorial.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: old. Just for a history and general knowledge.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/compphoto/BoostingMonocularDepth&quot;&gt;&lt;code&gt;BoostingMonocularDepth&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/compphoto/BoostingMonocularDepth&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/compphoto_BoostingMonocularDepth.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: it's something great. Waiting for newset pytorch versions and support on dpt midas.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/thomasfermi/Algorithms-for-Automated-Driving&quot;&gt;&lt;code&gt;Algorithms-for-Automated-Driving&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/thomasfermi/Algorithms-for-Automated-Driving&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/thomasfermi_Algorithms-for-Automated-Driving.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: very good. Great start point for self-driving for computer-vision programmers.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">3dv_tutorial Review: old. Just for a history and general knowledge.</summary></entry><entry><title type="html">GitHub Digest 2021-05-24</title><link href="http://localhost:4000/2021/05/24/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-05-24" /><published>2021-05-24T00:00:00+03:00</published><updated>2021-05-24T00:00:00+03:00</updated><id>http://localhost:4000/2021/05/24/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/05/24/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/hoya012/CVPR-2021-Paper-Statistics&quot;&gt;&lt;code&gt;CVPR-2021-Paper-Statistics&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/hoya012/CVPR-2021-Paper-Statistics&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/hoya012_CVPR-2021-Paper-Statistics.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: ok.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/devAmoghS/Python-Interview-Problems-for-Practice&quot;&gt;&lt;code&gt;Python-Interview-Problems-for-Practice&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/devAmoghS/Python-Interview-Problems-for-Practice&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/devAmoghS_Python-Interview-Problems-for-Practice.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: I use similar stuff for juniors.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vinits5/learning3d&quot;&gt;&lt;code&gt;learning3d&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vinits5/learning3d&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/vinits5_learning3d.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: looks like legacy, but maybe...
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/BertaBescos/EmptyCities_SLAM&quot;&gt;&lt;code&gt;EmptyCities_SLAM&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/BertaBescos/EmptyCities_SLAM&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/BertaBescos_EmptyCities_SLAM.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: just for read paper about this approach. Lua. Torch. 2k21.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/alex04072000/SingleHDR&quot;&gt;&lt;code&gt;SingleHDR&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/alex04072000/SingleHDR&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/alex04072000_SingleHDR.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: the most interesting sigle-image hdr algorithm from deephdr paper list!
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">CVPR-2021-Paper-Statistics Review: ok.</summary></entry><entry><title type="html">GitHub Digest 2021-05-23</title><link href="http://localhost:4000/2021/05/23/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-05-23" /><published>2021-05-23T00:00:00+03:00</published><updated>2021-05-23T00:00:00+03:00</updated><id>http://localhost:4000/2021/05/23/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/05/23/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/michael-fonder/M4Depth&quot;&gt;&lt;code&gt;M4Depth&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/michael-fonder/M4Depth&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/michael-fonder_M4Depth.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: yet another monocular depth estimation with but with good training stuff.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/cxy1997/3D_adapt_auto_driving&quot;&gt;&lt;code&gt;3D_adapt_auto_driving&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/cxy1997/3D_adapt_auto_driving&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/cxy1997_3D_adapt_auto_driving.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: I don't like classic 3D object detection approach in self-driving but it deserves attention.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/mozilla/DeepSpeech&quot;&gt;&lt;code&gt;DeepSpeech&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/mozilla/DeepSpeech&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/mozilla_DeepSpeech.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: it's real-time, it's open-source, it's Mozillam it's interesting.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">M4Depth Review: yet another monocular depth estimation with but with good training stuff.</summary></entry><entry><title type="html">GitHub Digest 2021-05-19</title><link href="http://localhost:4000/2021/05/19/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-05-19" /><published>2021-05-19T00:00:00+03:00</published><updated>2021-05-19T00:00:00+03:00</updated><id>http://localhost:4000/2021/05/19/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/05/19/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/princeton-vl/DeepV2D&quot;&gt;&lt;code&gt;DeepV2D&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/princeton-vl/DeepV2D&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/princeton-vl_DeepV2D.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: looks like interesting project for depth estimation without flicking problem.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/lasinger/3DVideos2Stereo&quot;&gt;&lt;code&gt;3DVideos2Stereo&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/lasinger/3DVideos2Stereo&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/lasinger_3DVideos2Stereo.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: scripts for preparing data for training MIDAS.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/BigMoWangying/LiDAR-Iris&quot;&gt;&lt;code&gt;LiDAR-Iris&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/BigMoWangying/LiDAR-Iris&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/BigMoWangying_LiDAR-Iris.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: useful slam stuff using lidar.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/aim-uofa/AdelaiDepth&quot;&gt;&lt;code&gt;AdelaiDepth&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/aim-uofa/AdelaiDepth&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/aim-uofa_AdelaiDepth.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: interesing as part of toolbox for monocular depth estimation.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/zhulf0804/3D-PointCloud&quot;&gt;&lt;code&gt;3D-PointCloud&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/zhulf0804/3D-PointCloud&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/zhulf0804_3D-PointCloud.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: yet another dataset list. Not bad.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/jetsonhacks/jetsonUtilities&quot;&gt;&lt;code&gt;jetsonUtilities&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/jetsonhacks/jetsonUtilities&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/jetsonhacks_jetsonUtilities.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: good!
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/tuvtran/project-based-learning&quot;&gt;&lt;code&gt;project-based-learning&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/tuvtran/project-based-learning&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/tuvtran_project-based-learning.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: very good for beginners!
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/mie-lab/trackintel&quot;&gt;&lt;code&gt;trackintel&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/mie-lab/trackintel&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/mie-lab_trackintel.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: I thimk it may be interesting for self-driving teams, which uses some city maps services.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vinthony/awesome-deep-hdr&quot;&gt;&lt;code&gt;awesome-deep-hdr&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vinthony/awesome-deep-hdr&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/vinthony_awesome-deep-hdr.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: so tasty. I have to do special list for reviewing each paper from list!
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vita-epfl/monoloco&quot;&gt;&lt;code&gt;monoloco&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vita-epfl/monoloco&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/vita-epfl_monoloco.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: why not?
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/0xAX/linux-insides&quot;&gt;&lt;code&gt;linux-insides&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/0xAX/linux-insides&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/0xAX_linux-insides.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: great, professional, interesting!
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/SSubhnil/RacingCARLA&quot;&gt;&lt;code&gt;RacingCARLA&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/SSubhnil/RacingCARLA&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/SSubhnil_RacingCARLA.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: CARLA, RACING, INTERESTING.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/SSubhnil/RacingLMPC&quot;&gt;&lt;code&gt;RacingLMPC&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/SSubhnil/RacingLMPC&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/SSubhnil_RacingLMPC.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: CARLA, RACING, STILL INTERESTING.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">DeepV2D Review: looks like interesting project for depth estimation without flicking problem.</summary></entry><entry><title type="html">Monocular depth estimation fails</title><link href="http://localhost:4000/2020/09/03/monocular-depth-fails" rel="alternate" type="text/html" title="Monocular depth estimation fails" /><published>2020-09-03T00:00:00+03:00</published><updated>2020-09-03T00:00:00+03:00</updated><id>http://localhost:4000/2020/09/03/monocular-depth-fails</id><content type="html" xml:base="http://localhost:4000/2020/09/03/monocular-depth-fails">&lt;p&gt;Why should you use something else except monocular depth estimation…&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5IImLps1ayw&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/5IImLps1ayw/0.jpg&quot; alt=&quot;Why should you use something else except monocular depth estimation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="experiment" /><category term="self-driving" /><category term="cars" /><category term="perception" /><category term="monocular depth" /><summary type="html">Why should you use something else except monocular depth estimation…</summary></entry></feed>
