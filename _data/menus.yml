@@ -2,7 +2,7 @@
   url:   ""
 
 - default: menu_category
-  url:   "category"
+  url:   "categories"
 
 - title: "GitHub"
   absoluteUrl: true
