@@ -4,6 +4,15 @@
   text-align: center;
 }
 
+.page-author {
+  display: none;
+}
+
 .page-content p {
   line-height: 20px;
+}
+
+.page-content img {
+  display: block;
+  margin: 10px auto;
 }

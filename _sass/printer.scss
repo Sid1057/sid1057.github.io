@@ -1,13 +1,17 @@
 @charset "utf-8";
 
+.print-post-author {
+  display: none;
+}
+
 @media print {
   /* Header */
-  .header-container {
+  .container-header {
     display: none;
   }
 
   /* Footer */
-  .footer-container {
+  .container-footer {
     display: none;
   }
 

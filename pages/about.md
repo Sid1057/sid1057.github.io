@@ -4,21 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Russian self-driving hacker. Love to do cool stuff and love to do it cool.
+Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
 
-Autonomous trains at work.
+You can find more information in [Jekyll Paper][jekyll-paper] or [Jekyll Paper for Github][jekyll-paper-github]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues], [Jekyll Paper for Github Issues][jekyll-paper-github-issues] or send email to [me](mailto:i@ghosind.com). 
 
-Autonomous cars at home.
-
-<hr/>
-
-#### Books recommendations
-
-| Name          | What and why     |
-| ------------- |------------------|
-| The Art of UNIX Programming by Eric S. Raymond    | Must have for developers. UNIX-way, KISS, philosophy and the best examples. |
-| The Humane Interface: New Directions for Designing Interactive Systems by Jef Raskin | This book about beauty in program and calculations in interface. One of my favorite books. |
-
+Wish you enjoying your blog life!
 
 [jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
+[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
 [jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
+[jekyll-paper-github-issues]: https://github.com/ghosind/Jekyll-Paper-Github/issues

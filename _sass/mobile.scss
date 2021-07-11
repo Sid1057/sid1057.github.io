@@ -8,12 +8,13 @@
   }
 
   /* Posts list */
-  .posts-list-pagination {
+  .list-pagination {
     margin: 10px 0 5px 0;
   }
 
   /* Footer */
-  .footer-copyright .float-left, .footer-copyright .float-right {
+  .footer-copyright .float-left,
+  .footer-copyright .float-right {
     float: none;
   }
 }
