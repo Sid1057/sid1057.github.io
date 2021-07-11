@@ -16,7 +16,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/SforAiDl_KD_Lib.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: interesting. Mey be used for switching your VGG20000 network in production.
+        Review: interesting. May be used for switching your VGG20000 network in production.
     </p>
   </p>
 </p>
