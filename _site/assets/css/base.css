@@ -4,7 +4,8 @@
   font-family: Courier New, Courier, monospace;
 }
 
-html, body {
+html,
+body {
   height: 100%;
 }
 
@@ -23,7 +24,12 @@ blockquote {
   border-left: 2px solid #888;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   line-height: normal;
   margin: 5px 0;
   text-indent: 0;
@@ -42,7 +48,8 @@ img {
   max-width: 700px;
 }
 
-ol, ul {
+ol,
+ul {
   margin-left: 35px;
 }
 
@@ -67,6 +74,10 @@ th {
   padding: 8px;
   border-bottom: 1px solid #ccc;
   background: #f5f5f5;
+}
+
+a.reversefootnote {
+  display: none;
 }
 
 .container-wrapper {
@@ -95,6 +106,18 @@ th {
   overflow: hidden;
 }
 
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.float-center {
+  text-align: center;
+}
+
 .header-info {
   display: block;
   position: relative;
@@ -107,7 +130,7 @@ th {
 }
 
 .header-info-desc {
-  font-size: .9em;
+  font-size: 0.9em;
 }
 
 .header-main-nav {
@@ -121,18 +144,6 @@ th {
   float: left;
   line-height: 24px;
   margin: 0 10px;
-}
-
-.float-left {
-  float: left;
-}
-
-.float-right {
-  float: right;
-}
-
-.float-center {
-  text-align: center;
 }
 
 .footer-copyright {
@@ -149,8 +160,17 @@ th {
   text-align: center;
 }
 
+.page-author {
+  display: none;
+}
+
 .page-content p {
   line-height: 20px;
+}
+
+.page-content img {
+  display: block;
+  margin: 10px auto;
 }
 
 .posts-list-item {
@@ -166,17 +186,13 @@ th {
   font-weight: 300;
 }
 
-.posts-list-pagination {
+.list-pagination {
   margin: 20px 0 10px 0;
   text-align: center;
 }
 
 .post-title {
   text-align: center;
-}
-
-.post-author {
-  display: none;
 }
 
 .post-content p {
@@ -193,29 +209,13 @@ th {
   margin: 10px 0;
 }
 
-.post-category, .post-tag {
+.post-category,
+.post-tag {
   margin: 0 5px;
 }
 
-/* for specific category page */
-.category-title {
-  text-align: center;
-}
-
-.category-list {
-  line-height: 24px;
-}
-
-/* for categories page */
-.categories-title {
-  text-align: center;
-}
-
-.categories-list {
-  line-height: 24px;
-}
-
-.highlight > pre, pre.highlight {
+.highlight > pre,
+pre.highlight {
   line-height: 18px;
   margin: 10px 0;
   padding-left: 3px;
@@ -240,23 +240,28 @@ th {
   }
 
   /* Posts list */
-  .posts-list-pagination {
+  .list-pagination {
     margin: 10px 0 5px 0;
   }
 
   /* Footer */
-  .footer-copyright .float-left, .footer-copyright .float-right {
+  .footer-copyright .float-left,
+  .footer-copyright .float-right {
     float: none;
   }
 }
+.print-post-author {
+  display: none;
+}
+
 @media print {
   /* Header */
-  .header-container {
+  .container-header {
     display: none;
   }
 
   /* Footer */
-  .footer-container {
+  .container-footer {
     display: none;
   }
 

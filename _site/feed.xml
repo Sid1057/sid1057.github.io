@@ -1,4 +1,212 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-12T00:43:39+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sid1057</title><subtitle>computer vision software engineer.</subtitle><entry><title type="html">Midas comparison</title><link href="http://localhost:4000/2021/07/11/midas-comarison" rel="alternate" type="text/html" title="Midas comparison" /><published>2021-07-11T00:00:00+03:00</published><updated>2021-07-11T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/11/midas-comarison</id><content type="html" xml:base="http://localhost:4000/2021/07/11/midas-comarison">&lt;p&gt;Midas comparison&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-16T13:28:36+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sid1057</title><subtitle>computer vision software  ̶h̶a̶c̶k̶e̶r̶ engineer.</subtitle><entry><title type="html">Github Digest 2021-07-15</title><link href="http://localhost:4000/2021/07/15/Github-Digest" rel="alternate" type="text/html" title="Github Digest 2021-07-15" /><published>2021-07-15T00:00:00+03:00</published><updated>2021-07-16T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/15/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/07/15/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator&quot;&gt;&lt;code&gt;Formula-Student-Driverless-Simulator&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/FS-Driverless_Formula-Student-Driverless-Simulator.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: AirSim fork with formula student driverless track. Cool.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/MaybeShewill-CV/lanenet-lane-detection&quot;&gt;&lt;code&gt;lanenet-lane-detection&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/MaybeShewill-CV/lanenet-lane-detection&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/MaybeShewill-CV_lanenet-lane-detection.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: Real-time lane detection dnn.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/manfreddiaz/awesome-autonomous-vehicles&quot;&gt;&lt;code&gt;awesome-autonomous-vehicles&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/manfreddiaz/awesome-autonomous-vehicles&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/manfreddiaz_awesome-autonomous-vehicles.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: A paper list about AV.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vietanhdev/open-adas&quot;&gt;&lt;code&gt;open-adas&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vietanhdev/open-adas&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/vietanhdev_open-adas.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: Initiative project to create adas on jetson devices.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/sundowndev/hacker-roadmap&quot;&gt;&lt;code&gt;hacker-roadmap&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/sundowndev/hacker-roadmap&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/sundowndev_hacker-roadmap.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: It's still cool to be hacker.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/xiaoaoran/SynLiDAR&quot;&gt;&lt;code&gt;SynLiDAR&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/xiaoaoran/SynLiDAR&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/xiaoaoran_SynLiDAR.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: Yet another synthetic lidar dataset.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/mathiasmantelli/awesome-mobile-robotics&quot;&gt;&lt;code&gt;awesome-mobile-robotics&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/mathiasmantelli/awesome-mobile-robotics&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/mathiasmantelli_awesome-mobile-robotics.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: Yet another awesome list.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/facebookincubator/pystemd&quot;&gt;&lt;code&gt;pystemd&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/facebookincubator/pystemd&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/facebookincubator_pystemd.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: Cool python wrapper for systemd stuff. Could be useful.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Stefal/rtkbase&quot;&gt;&lt;code&gt;rtkbase&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Stefal/rtkbase&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/Stefal_rtkbase.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+    &lt;/p&gt;
+        Review: I think it's always cool to have frontend visualization for any unit in your system.
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/wang-xinyu/tensorrtx&quot;&gt;&lt;code&gt;tensorrtx&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/wang-xinyu/tensorrtx&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/wang-xinyu_tensorrtx.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: Awesome work for awesome things!!! Deserves a star!
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/fregu856/papers&quot;&gt;&lt;code&gt;papers&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/fregu856/papers&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/fregu856_papers.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: Yet another paper list.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/xinghaochen/awesome-hand-pose-estimation&quot;&gt;&lt;code&gt;awesome-hand-pose-estimation&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/xinghaochen/awesome-hand-pose-estimation&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/xinghaochen_awesome-hand-pose-estimation.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: Yet another awesome list.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/NVIDIA-AI-IOT/ros2_jetson&quot;&gt;&lt;code&gt;ros2_jetson&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/NVIDIA-AI-IOT/ros2_jetson&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/NVIDIA-AI-IOT_ros2_jetson.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: Official repository for using ROS2 on your jetson device if you think you need to use ROS on your jetson device...
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/laynH/Anime-Girls-Holding-Programming-Books&quot;&gt;&lt;code&gt;Anime-Girls-Holding-Programming-Books&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/laynH/Anime-Girls-Holding-Programming-Books&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/laynH_Anime-Girls-Holding-Programming-Books.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: The only thing you needed. (my favorite repo)
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">Formula-Student-Driverless-Simulator Review: AirSim fork with formula student driverless track. Cool.</summary></entry><entry><title type="html">Midas comparison</title><link href="http://localhost:4000/2021/07/11/midas-comarison" rel="alternate" type="text/html" title="Midas comparison" /><published>2021-07-11T00:00:00+03:00</published><updated>2021-07-11T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/11/midas-comarison</id><content type="html" xml:base="http://localhost:4000/2021/07/11/midas-comarison">&lt;p&gt;Midas comparison&lt;/p&gt;
 
 &lt;p&gt;Full text will be added later…&lt;/p&gt;
 
@@ -11,7 +219,7 @@
     &lt;img src=&quot;/assets/images/repo_cards/SforAiDl_KD_Lib.jpg&quot; width=&quot;500&quot; /&gt;
     &lt;/a&gt;
     &lt;p align=&quot;center&quot;&gt;
-        Review: interesting. Mey be used for switching your VGG20000 network in production.
+        Review: interesting. May be used for switching your VGG20000 network in production.
     &lt;/p&gt;
   &lt;/p&gt;
 &lt;/p&gt;
@@ -45,7 +253,7 @@
     &lt;/p&gt;
   &lt;/p&gt;
 &lt;/p&gt;
-&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">KD_Lib Review: interesting. Mey be used for switching your VGG20000 network in production.</summary></entry><entry><title type="html">GitHub Digest 2021-06-29</title><link href="http://localhost:4000/2021/06/29/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-06-29" /><published>2021-06-29T00:00:00+03:00</published><updated>2021-06-29T00:00:00+03:00</updated><id>http://localhost:4000/2021/06/29/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/06/29/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">KD_Lib Review: interesting. May be used for switching your VGG20000 network in production.</summary></entry><entry><title type="html">GitHub Digest 2021-06-29</title><link href="http://localhost:4000/2021/06/29/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-06-29" /><published>2021-06-29T00:00:00+03:00</published><updated>2021-06-29T00:00:00+03:00</updated><id>http://localhost:4000/2021/06/29/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/06/29/Github-Digest">&lt;p align=&quot;center&quot;&gt;
   &lt;h1 align=&quot;center&quot;&gt;
     &lt;a href=&quot;https://github.com/windmaple/awesome-AutoML&quot;&gt;&lt;code&gt;awesome-AutoML&lt;/code&gt;&lt;/a&gt;
   &lt;/h1&gt;
@@ -586,6 +794,4 @@
     &lt;/p&gt;
   &lt;/p&gt;
 &lt;/p&gt;
-&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">DeepV2D Review: looks like interesting project for depth estimation without flicking problem.</summary></entry><entry><title type="html">Monocular depth estimation fails</title><link href="http://localhost:4000/2020/09/03/monocular-depth-fails" rel="alternate" type="text/html" title="Monocular depth estimation fails" /><published>2020-09-03T00:00:00+03:00</published><updated>2020-09-03T00:00:00+03:00</updated><id>http://localhost:4000/2020/09/03/monocular-depth-fails</id><content type="html" xml:base="http://localhost:4000/2020/09/03/monocular-depth-fails">&lt;p&gt;Why should you use something else except monocular depth estimation…&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5IImLps1ayw&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/5IImLps1ayw/0.jpg&quot; alt=&quot;Why should you use something else except monocular depth estimation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="experiment" /><category term="self-driving" /><category term="cars" /><category term="perception" /><category term="monocular depth" /><summary type="html">Why should you use something else except monocular depth estimation…</summary></entry></feed>
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">DeepV2D Review: looks like interesting project for depth estimation without flicking problem.</summary></entry></feed>

@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Self-driving stuff | sid1057</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Self-driving stuff" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="computer vision software ̶h̶a̶c̶k̶e̶r̶ engineer." />
+<meta property="og:description" content="computer vision software ̶h̶a̶c̶k̶e̶r̶ engineer." />
+<link rel="canonical" href="http://localhost:4000/self-driving/" />
+<meta property="og:url" content="http://localhost:4000/self-driving/" />
+<meta property="og:site_name" content="sid1057" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Self-driving stuff" />
+<script type="application/ld+json">
+{"headline":"Self-driving stuff","@type":"WebPage","url":"http://localhost:4000/self-driving/","description":"computer vision software ̶h̶a̶c̶k̶e̶r̶ engineer.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<meta
+  name="keywords"
+  content="automotive,self-driving,car,simulation,computer vision,carla" />
+
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" href="/favicon.ico" />
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title="sid1057 - computer vision software  ̶h̶a̶c̶k̶e̶r̶ engineer."
+  href="/feed.xml" />
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="/assets/css/base.css" />
+<link
+  rel="stylesheet"
+  type="text/css"
+  href="/assets/css/highlight.css" />
+
+<!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+
+<script
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
+  async>
+</script>
+
+
+
+  </head>
+  <body>
+    <div class="container-wrapper">
+      <header class="container-header">
+        <div class="header-info">
+  <span class="header-info-name">sid1057</span>
+  <span class="header-info-desc">computer vision software  ̶h̶a̶c̶k̶e̶r̶ engineer.</span>
+</div>
+<nav class="header-nav">
+  <ul class="header-main-nav">
+    
+    <li class="header-main-nav-item">
+      <a href="/">
+        
+          Index
+        
+      </a>
+    </li>
+    
+    <li class="header-main-nav-item">
+      <a href="/categories">
+        
+          Categories
+        
+      </a>
+    </li>
+    
+    <li class="header-main-nav-item">
+      <a href="https://www.github.com/sid1057">
+        
+          GitHub
+        
+      </a>
+    </li>
+    
+    <li class="header-main-nav-item">
+      <a href="https://www.youtube.com/channel/UCtTnP2N39ZJtdKt9i5u7meg">
+        
+          YouTube
+        
+      </a>
+    </li>
+    
+    <li class="header-main-nav-item">
+      <a href="https://www.linkedin.com/in/ivan-deylid/">
+        
+          LinkedIn
+        
+      </a>
+    </li>
+    
+    <li class="header-main-nav-item">
+      <a href="/about">
+        
+          About
+        
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+      </header>
+      <main class="container-main">
+        <article class="container-page">
+  <div class="page-title">
+    <h1>Self-driving stuff</h1>
+  </div>
+  <div class="page-content">
+    <h1 id="self-driving-stuff">Self-driving stuff</h1>
+
+<h2 id="репозитории">Репозитории</h2>
+
+<h3 id="self-driving-cars-utils"><a href="https://github.com/Sid1057/self-driving-cars-utils">Self-driving cars utils</a></h3>
+
+<p>Описание:</p>
+
+<ul>
+  <li>Претренированные сети семантической сегментации (CityScapes категории)</li>
+  <li>Скрипты для взаимодействия с симулятором CARLA</li>
+  <li>Скрипты для конвертации автомобильных форматов датасетов</li>
+</ul>
+
+<hr />
+
+<h2 id="цикл-мастер-классов-как-собрать-беспилотник-за-15-часа">Цикл мастер-классов “Как собрать беспилотник за 1.5 часа”</h2>
+
+<h3 id="глава-0-тест-драйв-технологий">Глава 0. <strong>Тест-драйв технологий</strong></h3>
+
+<p><em>Поверхностный обзор того, как данную задачу решают в различных проектах. Быстрое написание собственного прототипа perception модуля. План дальнейших шагов.</em></p>
+
+<p>Мастер-класс 2019.11.02</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="/self-driving/projects/speed/">Презентация (RU)</a></td>
+      <td><a href="https://nbviewer.jupyter.org/urls/sid1057.github.io/self-driving/projects/speed/Sirius.ipynb">Ноутбук (RU)</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- | [Код проекта]()-->
+
+<!--[Speed game](./projects/speed/)-->
+
+<h3 id="глава-1-speed">Глава 1. <strong>Speed</strong></h3>
+
+<p><em>Используем модуль распознавания полностью на нейронных сетях, добавляем примитивное планирование, пишем модуль контроля для симулятора CARLA. Ставим цель повторить сюжет фильма скорость, отключаем воздействие на акселератор и управляем рулевым колесом так, чтобы предотвратить аварии.</em></p>
+
+<p><em>В процессе</em></p>
+
+<p><img src="./projects/speed/materials/speed_poster.jpg" alt="speed" width="300" /></p>
+
+<h3 id="глава-2-out-run">Глава 2. <strong>Out run</strong></h3>
+
+<p><em>Добавляем в модуль распознавания полосу движения, усложняем алгоритм планирования для удержания в полосе и более эффективного обгона. Учимся определять повороты и используем карту/навигатор для достижения финишной черты.</em></p>
+
+<p><em>В процессе</em></p>
+
+<p><img src="./projects/speed/materials/outrun.jpg" alt="speed" width="300" /></p>
+
+<h3 id="глава-3-chase-hq">Глава 3. <strong>Chase HQ</strong></h3>
+
+<p><em>Добавляем в модуль распознавания детекцию ключевых транспортных средств, оптимизируем работу модуля планирования с целью построения эффективной кривой подъезда и предсказания сложной дорожной обстановки</em></p>
+
+<p><em>В процессе</em></p>
+
+<p><img src="./projects/speed/materials/chasehq.jpg" alt="chasehq" width="300" /></p>
+
+<h3 id="глава-4-collin-mcrae">Глава 4. <strong>Collin mcrae</strong></h3>
+
+<p><em>Улучшаем модель распознавания классическими методами компьютерного зрения на основе 3D реконструкции. Повышаем надежность системы в целом. Добавляем распознавание знаков и сигнальных приспособлений.</em></p>
+
+<p><em>В процессе</em></p>
+
+<p><img src="./projects/speed/materials/colimmcrae.jpg" alt="mcrae" width="300" /></p>
+
+<h3 id="глава-5-f1">Глава 5. <strong>F1</strong></h3>
+
+<p><em>Добавляем усложненный модуль локализации, строим карту, по которой движется транспортное средство, учимся использовать карту для более эффективного планирования.</em></p>
+
+<p><em>В процессе</em></p>
+
+<p><img src="./projects/speed/materials/f1.jpg" alt="f1" width="300" /></p>
+
+<h3 id="глава-6-need-for-speed-most-wanted">Глава 6. <strong>Need for speed: most wanted</strong></h3>
+
+<p><em>Добавляем круговой обзор в модуль распознавания, уходим от аварий по вине сторонних участников движения, используем глобальную карту для оптимального выбора скорости.</em></p>
+
+<p><em>В процессе</em></p>
+
+<p><img src="./projects/speed/materials/mostwanted.jpg" alt="nfs" width="300" /></p>
+
+<h3 id="глава-7-gta">Глава 7. <strong>GTA</strong></h3>
+
+<p><em>Начинаем ездить по правилам.</em></p>
+
+<p><em>В процессе</em></p>
+
+  </div>
+</article>
+
+      </main>
+      <footer class="container-footer">
+        <div class="footer-copyright">
+  <span class="footer-copyright-text float-left">
+    Copyright &copy; 2021. sid1057.github.io.
+  </span>
+  <span class="footer-copyright-text float-right">
+    Powered by <a href="https://jekyllrb.com/">Jekyll</a>, themed by <a href="https://github.com/ghosind/Jekyll-Paper-Github">Jekyll-Paper-Github</a>.
+  </span>
+</div>
+
+      </footer>
+    </div>
+  </body>
+</html>
