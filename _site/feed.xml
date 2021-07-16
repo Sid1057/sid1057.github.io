@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-16T13:28:36+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sid1057</title><subtitle>computer vision software  ̶h̶a̶c̶k̶e̶r̶ engineer.</subtitle><entry><title type="html">Github Digest 2021-07-15</title><link href="http://localhost:4000/2021/07/15/Github-Digest" rel="alternate" type="text/html" title="Github Digest 2021-07-15" /><published>2021-07-15T00:00:00+03:00</published><updated>2021-07-16T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/15/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/07/15/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-16T15:34:50+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sid1057</title><subtitle>computer vision software  ̶h̶a̶c̶k̶e̶r̶ engineer.</subtitle><entry><title type="html">Github Digest 2021-07-15</title><link href="http://localhost:4000/2021/07/15/Github-Digest" rel="alternate" type="text/html" title="Github Digest 2021-07-15" /><published>2021-07-15T00:00:00+03:00</published><updated>2021-07-16T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/15/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/07/15/Github-Digest">&lt;p align=&quot;center&quot;&gt;
   &lt;h1 align=&quot;center&quot;&gt;
     &lt;a href=&quot;https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator&quot;&gt;&lt;code&gt;Formula-Student-Driverless-Simulator&lt;/code&gt;&lt;/a&gt;
   &lt;/h1&gt;
@@ -206,7 +206,25 @@
     &lt;/p&gt;
   &lt;/p&gt;
 &lt;/p&gt;
-&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">Formula-Student-Driverless-Simulator Review: AirSim fork with formula student driverless track. Cool.</summary></entry><entry><title type="html">Midas comparison</title><link href="http://localhost:4000/2021/07/11/midas-comarison" rel="alternate" type="text/html" title="Midas comparison" /><published>2021-07-11T00:00:00+03:00</published><updated>2021-07-11T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/11/midas-comarison</id><content type="html" xml:base="http://localhost:4000/2021/07/11/midas-comarison">&lt;p&gt;Midas comparison&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">Formula-Student-Driverless-Simulator Review: AirSim fork with formula student driverless track. Cool.</summary></entry><entry><title type="html">Video review: How TRI Trains Better Computer Vision Models with PD Synthetic Data</title><link href="http://localhost:4000/2021/07/15/Video-review-How-TRI-Trains-with-Synthetic-Data" rel="alternate" type="text/html" title="Video review: How TRI Trains Better Computer Vision Models with PD Synthetic Data" /><published>2021-07-15T00:00:00+03:00</published><updated>2021-07-15T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/15/Video-review-How-TRI-Trains-with-Synthetic-Data</id><content type="html" xml:base="http://localhost:4000/2021/07/15/Video-review-How-TRI-Trains-with-Synthetic-Data">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Good interview on the use of synthetic data in computer vision problems for autonomous driving.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QIYttoVxf2w&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/QIYttoVxf2w/0.jpg&quot; alt=&quot;2021-07-15-Video review: How TRI Trains Better Computer Vision Models with PD Synthetic Data&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Key points:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Synthetics are extremely useful&lt;/li&gt;
+  &lt;li&gt;Case on how the tracker learned to work in conditions of a large number of closed objects on the simulator&lt;/li&gt;
+  &lt;li&gt;Simulators are photorealistic enough to give a boost, and in the case of heavy models without them it is almost impossible to collect the required amount of high-quality labeled data&lt;/li&gt;
+  &lt;li&gt;Very cool case of how they used multi-tasking deep learning to improve semantics where they took most of the data from the simulator and estimated the depth in real data using monocular depth network&lt;/li&gt;
+  &lt;li&gt;Idea: you can use real data only for validation, and depending on errors for some case / class, try to generate more synthetic data automatically to fix the error&lt;/li&gt;
+  &lt;li&gt;Gaidon is cool&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="review" /><category term="interview" /><category term="video" /><summary type="html"></summary></entry><entry><title type="html">Midas comparison</title><link href="http://localhost:4000/2021/07/11/midas-comarison" rel="alternate" type="text/html" title="Midas comparison" /><published>2021-07-11T00:00:00+03:00</published><updated>2021-07-11T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/11/midas-comarison</id><content type="html" xml:base="http://localhost:4000/2021/07/11/midas-comarison">&lt;p&gt;Midas comparison&lt;/p&gt;
 
 &lt;p&gt;Full text will be added later…&lt;/p&gt;
 
@@ -601,197 +619,4 @@
     &lt;/p&gt;
   &lt;/p&gt;
 &lt;/p&gt;
-&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">M4Depth Review: yet another monocular depth estimation with but with good training stuff.</summary></entry><entry><title type="html">GitHub Digest 2021-05-19</title><link href="http://localhost:4000/2021/05/19/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-05-19" /><published>2021-05-19T00:00:00+03:00</published><updated>2021-05-19T00:00:00+03:00</updated><id>http://localhost:4000/2021/05/19/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/05/19/Github-Digest">&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/princeton-vl/DeepV2D&quot;&gt;&lt;code&gt;DeepV2D&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/princeton-vl/DeepV2D&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/princeton-vl_DeepV2D.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: looks like interesting project for depth estimation without flicking problem.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/lasinger/3DVideos2Stereo&quot;&gt;&lt;code&gt;3DVideos2Stereo&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/lasinger/3DVideos2Stereo&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/lasinger_3DVideos2Stereo.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: scripts for preparing data for training MIDAS.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/BigMoWangying/LiDAR-Iris&quot;&gt;&lt;code&gt;LiDAR-Iris&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/BigMoWangying/LiDAR-Iris&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/BigMoWangying_LiDAR-Iris.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: useful slam stuff using lidar.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/aim-uofa/AdelaiDepth&quot;&gt;&lt;code&gt;AdelaiDepth&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/aim-uofa/AdelaiDepth&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/aim-uofa_AdelaiDepth.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: interesing as part of toolbox for monocular depth estimation.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/zhulf0804/3D-PointCloud&quot;&gt;&lt;code&gt;3D-PointCloud&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/zhulf0804/3D-PointCloud&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/zhulf0804_3D-PointCloud.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: yet another dataset list. Not bad.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/jetsonhacks/jetsonUtilities&quot;&gt;&lt;code&gt;jetsonUtilities&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/jetsonhacks/jetsonUtilities&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/jetsonhacks_jetsonUtilities.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: good!
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/tuvtran/project-based-learning&quot;&gt;&lt;code&gt;project-based-learning&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/tuvtran/project-based-learning&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/tuvtran_project-based-learning.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: very good for beginners!
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/mie-lab/trackintel&quot;&gt;&lt;code&gt;trackintel&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/mie-lab/trackintel&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/mie-lab_trackintel.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: I thimk it may be interesting for self-driving teams, which uses some city maps services.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/vinthony/awesome-deep-hdr&quot;&gt;&lt;code&gt;awesome-deep-hdr&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/vinthony/awesome-deep-hdr&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/vinthony_awesome-deep-hdr.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: so tasty. I have to do special list for reviewing each paper from list!
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/vita-epfl/monoloco&quot;&gt;&lt;code&gt;monoloco&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/vita-epfl/monoloco&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/vita-epfl_monoloco.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: why not?
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/0xAX/linux-insides&quot;&gt;&lt;code&gt;linux-insides&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/0xAX/linux-insides&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/0xAX_linux-insides.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: great, professional, interesting!
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/SSubhnil/RacingCARLA&quot;&gt;&lt;code&gt;RacingCARLA&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/SSubhnil/RacingCARLA&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/SSubhnil_RacingCARLA.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: CARLA, RACING, INTERESTING.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/SSubhnil/RacingLMPC&quot;&gt;&lt;code&gt;RacingLMPC&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/SSubhnil/RacingLMPC&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/SSubhnil_RacingLMPC.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: CARLA, RACING, STILL INTERESTING.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">DeepV2D Review: looks like interesting project for depth estimation without flicking problem.</summary></entry></feed>
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">M4Depth Review: yet another monocular depth estimation with but with good training stuff.</summary></entry></feed>
