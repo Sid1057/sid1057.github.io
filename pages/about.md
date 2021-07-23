@@ -12,6 +12,10 @@ Autonomous cars at home.
 
 <hr/>
 
+feel free to email me: [ivanov.dale@gmail.com](mailto:ivanov.dale@gmail.com)
+
+<hr/>
+
 #### Books recommendations
 
 | Name          | What and why     |
