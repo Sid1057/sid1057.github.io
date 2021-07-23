@@ -1,4 +1,212 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-16T15:34:50+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sid1057</title><subtitle>computer vision software  ̶h̶a̶c̶k̶e̶r̶ engineer.</subtitle><entry><title type="html">Github Digest 2021-07-15</title><link href="http://localhost:4000/2021/07/15/Github-Digest" rel="alternate" type="text/html" title="Github Digest 2021-07-15" /><published>2021-07-15T00:00:00+03:00</published><updated>2021-07-16T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/15/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/07/15/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-07-23T18:25:32+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sid1057</title><subtitle>computer vision software  ̶h̶a̶c̶k̶e̶r̶ engineer.</subtitle><entry><title type="html">GitHub Digest 2021-07-23</title><link href="http://localhost:4000/2021/07/23/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-07-23" /><published>2021-07-23T00:00:00+03:00</published><updated>2021-07-23T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/23/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/07/23/Github-Digest">&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/ceccocats/tkDNN&quot;&gt;&lt;code&gt;tkDNN&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/ceccocats/tkDNN&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/ceccocats_tkDNN.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: best solution to run yolov4 on your jetson device.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/beedotkiran/Lidar_For_AD_references&quot;&gt;&lt;code&gt;Lidar_For_AD_references&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/beedotkiran/Lidar_For_AD_references&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/beedotkiran_Lidar_For_AD_references.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: yet another list, but already full of interesting paper and approaches to the lidar perception, special for AD, including SOTA.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vietanhdev/autonomous-car-2020&quot;&gt;&lt;code&gt;autonomous-car-2020&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/vietanhdev/autonomous-car-2020&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/vietanhdev_autonomous-car-2020.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: interesting and simple self-driving car pipeline for competition.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/PRBonn/LiDAR-MOS&quot;&gt;&lt;code&gt;LiDAR-MOS&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/PRBonn/LiDAR-MOS&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/PRBonn_LiDAR-MOS.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: looks like a very useful perception approach for self-driving car planning unit.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/JHMeusener/osm2xodr&quot;&gt;&lt;code&gt;osm2xodr&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/JHMeusener/osm2xodr&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/JHMeusener_osm2xodr.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: very useful repository if you want to develop your indie self-driving car in your city.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/cv-core/MIT-Driverless-CV-TrainingInfra&quot;&gt;&lt;code&gt;MIT-Driverless-CV-TrainingInfra&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/cv-core/MIT-Driverless-CV-TrainingInfra&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/cv-core_MIT-Driverless-CV-TrainingInfra.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: I really enjoy exploring source codes for formula students driverless. A good example of a general model customization for a realworld challenge in a self-governing competition.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/fsoco/fsoco-dataset&quot;&gt;&lt;code&gt;fsoco-dataset&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/fsoco/fsoco-dataset&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/fsoco_fsoco-dataset.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: boost dataset for your formula student driverless team.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/gyhandy/Pose-Augmentation&quot;&gt;&lt;code&gt;Pose-Augmentation&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/gyhandy/Pose-Augmentation&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/gyhandy_Pose-Augmentation.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: waiting for the code for very exciting approach of data pose augmentation using DNN.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Gradiant/pyodi&quot;&gt;&lt;code&gt;pyodi&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Gradiant/pyodi&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/Gradiant_pyodi.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: simple visualization for your object detection dataset.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/osrf/ovc&quot;&gt;&lt;code&gt;ovc&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/osrf/ovc&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/osrf_ovc.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: too old, but too interesting attempt to create fully completed hardware schema for various tasks of computer vision.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch&quot;&gt;&lt;code&gt;Deep-Tutorials-for-PyTorch&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/sgrvinod_Deep-Tutorials-for-PyTorch.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: looks like a very cool deep learning tutorial in pytorch, better than the old official tutorial.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Sibozhu/MotionBlur-detection-by-CNN&quot;&gt;&lt;code&gt;MotionBlur-detection-by-CNN&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/Sibozhu/MotionBlur-detection-by-CNN&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/Sibozhu_MotionBlur-detection-by-CNN.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: it could be useful for many real-life computer vision applications.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/muskie82/CNN-DSO&quot;&gt;&lt;code&gt;CNN-DSO&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/muskie82/CNN-DSO&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/muskie82_CNN-DSO.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: too old approach of combining DSO with monocular depth estimation, but some companies are really still try to sell you this shit.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;h1 align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/apsdehal/awesome-ctf&quot;&gt;&lt;code&gt;awesome-ctf&lt;/code&gt;&lt;/a&gt;
+  &lt;/h1&gt;
+  &lt;p align=&quot;center&quot;&gt;
+    &lt;a href=&quot;https://github.com/apsdehal/awesome-ctf&quot;&gt;
+    &lt;img src=&quot;/assets/images/repo_cards/apsdehal_awesome-ctf.jpg&quot; width=&quot;500&quot; /&gt;
+    &lt;/a&gt;
+    &lt;p align=&quot;center&quot;&gt;
+        Review: it's still cool to be a hacker.
+    &lt;/p&gt;
+  &lt;/p&gt;
+&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">tkDNN Review: best solution to run yolov4 on your jetson device.</summary></entry><entry><title type="html">Github Digest 2021-07-15</title><link href="http://localhost:4000/2021/07/15/Github-Digest" rel="alternate" type="text/html" title="Github Digest 2021-07-15" /><published>2021-07-15T00:00:00+03:00</published><updated>2021-07-16T00:00:00+03:00</updated><id>http://localhost:4000/2021/07/15/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/07/15/Github-Digest">&lt;p align=&quot;center&quot;&gt;
   &lt;h1 align=&quot;center&quot;&gt;
     &lt;a href=&quot;https://github.com/FS-Driverless/Formula-Student-Driverless-Simulator&quot;&gt;&lt;code&gt;Formula-Student-Driverless-Simulator&lt;/code&gt;&lt;/a&gt;
   &lt;/h1&gt;
@@ -576,47 +784,4 @@
     &lt;/p&gt;
   &lt;/p&gt;
 &lt;/p&gt;
-&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">CVPR-2021-Paper-Statistics Review: ok.</summary></entry><entry><title type="html">GitHub Digest 2021-05-23</title><link href="http://localhost:4000/2021/05/23/Github-Digest" rel="alternate" type="text/html" title="GitHub Digest 2021-05-23" /><published>2021-05-23T00:00:00+03:00</published><updated>2021-05-23T00:00:00+03:00</updated><id>http://localhost:4000/2021/05/23/Github-Digest</id><content type="html" xml:base="http://localhost:4000/2021/05/23/Github-Digest">&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/michael-fonder/M4Depth&quot;&gt;&lt;code&gt;M4Depth&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/michael-fonder/M4Depth&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/michael-fonder_M4Depth.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: yet another monocular depth estimation with but with good training stuff.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/cxy1997/3D_adapt_auto_driving&quot;&gt;&lt;code&gt;3D_adapt_auto_driving&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/cxy1997/3D_adapt_auto_driving&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/cxy1997_3D_adapt_auto_driving.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: I don't like classic 3D object detection approach in self-driving but it deserves attention.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;h1 align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/mozilla/DeepSpeech&quot;&gt;&lt;code&gt;DeepSpeech&lt;/code&gt;&lt;/a&gt;
-  &lt;/h1&gt;
-  &lt;p align=&quot;center&quot;&gt;
-    &lt;a href=&quot;https://github.com/mozilla/DeepSpeech&quot;&gt;
-    &lt;img src=&quot;/assets/images/repo_cards/mozilla_DeepSpeech.jpg&quot; width=&quot;500&quot; /&gt;
-    &lt;/a&gt;
-    &lt;p align=&quot;center&quot;&gt;
-        Review: it's real-time, it's open-source, it's Mozillam it's interesting.
-    &lt;/p&gt;
-  &lt;/p&gt;
-&lt;/p&gt;
-&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">M4Depth Review: yet another monocular depth estimation with but with good training stuff.</summary></entry></feed>
+&lt;hr /&gt;</content><author><name></name></author><category term="digest" /><category term="review" /><category term="github" /><summary type="html">CVPR-2021-Paper-Statistics Review: ok.</summary></entry></feed>
