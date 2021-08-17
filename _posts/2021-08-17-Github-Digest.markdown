@@ -17,7 +17,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/lefticus_cppbestpractices.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: a good point to start write high-quality cpp-code.
+        Review: a good point to start writing high-quality cpp-code.
     </p>
   </p>
 </p>
@@ -33,7 +33,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/eugeneyan_applied-ml.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: a list of different papers/videos/posts about applying machine learning in real companies for real tasks.
+        Review: a list of various papers/videos/posts on the application of machine learning in real companies for real problems.
     </p>
   </p>
 </p>
@@ -65,7 +65,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/hongsukchoi_TCMR_RELEASE.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: looks like a very good human pose and shape estimation. Also gifs look funny for me.
+        Review: looks like a very good human pose and shape estimation. Also gifs look funny to me.
     </p>
   </p>
 </p>
@@ -113,7 +113,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/IrohXu_lanenet-lane-detection-pytorch.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: yet another real-time lane detection. But source unfortunately fresh.
+        Review: yet another real-time lane detection. But the source is unfortunately fresh.
     </p>
   </p>
 </p>
@@ -129,7 +129,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/ekzhang_fastseg.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: proofe of concept that mobileV3+LR-ASPP it can be used for AD semantic segmentation. Use official TorchVision (0.9.0+) implementation, quantized it, convert to onnx and win comma.ai.
+        Review: proof of concept that mobileV3+LR-ASPP can be used for AD semantic segmentation. Use the official TorchVision (0.9.0+) implementation, quantize it, convert to onnx and win comma.ai.
     </p>
   </p>
 </p>
@@ -161,7 +161,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/tuliren_publish-gitbook.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: github actions for automotive gitbook work routine.
+        Review: github actions to automate gitbook routine.
     </p>
   </p>
 </p>
@@ -177,7 +177,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/stuckerc_ResDepth.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: high quality DNN for refine depth from your aerial dataset.
+        Review: high quality DNN to refine depth from your aerial photo set.
     </p>
   </p>
 </p>
@@ -190,10 +190,10 @@ tags: [github]
   </h1>
   <p align="center">
     <a href="https://github.com/Megvii-BaseDetection/YOLOX">
-    <img src="/assets/images/repo_cards/Megvii_BaseDetection_YOLOX.jpg" width="500" />
+    <img src="/assets/images/repo_cards/Megvii-BaseDetection_YOLOX.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: repository for use yolo3-5 in your embedded hardware with TRT, onnx, light versins and other features.
+        Review: a repository for using yolo3-5 in your embedded hardware with TRT, onnx, light versions and more.
     </p>
   </p>
 </p>
@@ -209,7 +209,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/microsoft_onnxjs.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: official way for running your onnx dnn in web browsers.
+        Review: the official way to run your onnx dnn in web browsers.
     </p>
   </p>
 </p>
@@ -225,7 +225,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/mil-tokyo_webdnn.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: good solution for run your onnx net in different browsers.
+        Review: good solution to run your network onnx in different web browsers.
     </p>
   </p>
 </p>
@@ -257,7 +257,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/mattpoggi_self-adapting-confidence.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: good idea and good implementation confidence estimation in depth estimation. I think it's a very important direction in the field of depth estimation.
+        Review: good idea and good implementation of the confidence estimation for depth estimation. I think it's a very important area in the field of depth estimation.
     </p>
   </p>
 </p>
@@ -273,7 +273,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/mattpoggi_mono-uncertainty.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: another implementation of confidence estimation in depth estimation. Looks pretty good.
+        Review: another implementation of the confidence estimation for depth estimation. Looks pretty good.
     </p>
   </p>
 </p>
@@ -305,7 +305,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/jaredthecoder_awesome-vehicle-security.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: awesome list for awesome but underrated topic in self-driving cars.
+        Review: an awesome list for awesome but underrated self-driving cars topic.
     </p>
   </p>
 </p>
@@ -353,7 +353,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/onnx_onnx-tensorrt.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: cool repo for convering your onnx models into trt. Useful if you work with embedded and mobile devices.
+        Review: cool repo for onnx models into trt converting. Useful if you work with embedded and mobile devices.
     </p>
   </p>
 </p>
@@ -385,7 +385,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/allegroai_clearml.png" width="500" />
     </a>
     <p  align="center">
-        Review: another ml workflow manager. Looks good and possibly better with AWS integration.
+        Review: another ml workflow manager. Looks good and possibly looks better with AWS integration.
     </p>
   </p>
 </p>
@@ -401,7 +401,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/caipeide_drift_drl.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: finally tokyo drift in CARLA.
+        Review: finally.. tokyo drift in CARLA.
     </p>
   </p>
 </p>
@@ -433,7 +433,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/nz-is_2D-Feature-Tracking.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: really useful comparison of differenet feature detection and matching methods in opencv. Even in 2k21 classical feature matching still can be useful in real tasks.
+        Review: really useful comparison of differenet feature detection and matching methods in opencv. Even in 2k21 classical feature matching can still be useful in real tasks.
     </p>
   </p>
 </p>
@@ -561,23 +561,7 @@ tags: [github]
     <img src="/assets/images/repo_cards/parisChatz_yolo-online-learning.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: an approach of object detection online learning using lidar data, tracking and etc. I think it would be very popular soon in AD.
-    </p>
-  </p>
-</p>
-<hr/>
-
-
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/parisChatz/yolo-online-learning"><code>yolo-online-learning</code></a>
-  </h1>
-  <p align="center">
-    <a href="https://github.com/parisChatz/yolo-online-learning">
-    <img src="/assets/images/repo_cards/parisChatz_yolo-online-learning.jpg" width="500" />
-    </a>
-    <p  align="center">
-        Review: an approach of object detection online learning using lidar data, tracking and etc. I think it would be very popular soon in AD.
+        Review: an approach of object detection online learning using lidar data, tracking and etc. I think it will be very popular soon in AD.
     </p>
   </p>
 </p>
