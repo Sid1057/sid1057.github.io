@@ -138,22 +138,6 @@ tags: [github]
 
 <p align="center">
   <h1 align="center">
-    <a href="https://github.com/ekzhang/fastseg"><code>fastseg</code></a>
-  </h1>
-  <p align="center">
-    <a href="https://github.com/ekzhang/fastseg">
-    <img src="/assets/images/repo_cards/ekzhang_fastseg.jpg" width="500" />
-    </a>
-    <p  align="center">
-        Review: proofe of concept that mobileV3+LR-ASPP it can be used for AD semantic segmentation. Use official TorchVision (0.9.0+) implementation, quantized it, convert to onnx and win comma.ai.
-    </p>
-  </p>
-</p>
-<hr/>
-
-
-<p align="center">
-  <h1 align="center">
     <a href="https://github.com/pxiangwu/MotionNet"><code>MotionNet</code></a>
   </h1>
   <p align="center">
@@ -206,7 +190,7 @@ tags: [github]
   </h1>
   <p align="center">
     <a href="https://github.com/Megvii-BaseDetection/YOLOX">
-    <img src="/assets/images/repo_cards/Megvii-BaseDetection_YOLOX.jpg" width="500" />
+    <img src="/assets/images/repo_cards/Megvii_BaseDetection_YOLOX.jpg" width="500" />
     </a>
     <p  align="center">
         Review: repository for use yolo3-5 in your embedded hardware with TRT, onnx, light versins and other features.
