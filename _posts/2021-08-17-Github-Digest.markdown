@@ -97,22 +97,6 @@ tags: [github]
     <img src="/assets/images/repo_cards/IrohXu_lanenet-lane-detection-pytorch.jpg" width="500" />
     </a>
     <p  align="center">
-        Review: yet another real-time lane detection. But source unfortunately fresh.
-    </p>
-  </p>
-</p>
-<hr/>
-
-
-<p align="center">
-  <h1 align="center">
-    <a href="https://github.com/IrohXu/lanenet-lane-detection-pytorch"><code>lanenet-lane-detection-pytorch</code></a>
-  </h1>
-  <p align="center">
-    <a href="https://github.com/IrohXu/lanenet-lane-detection-pytorch">
-    <img src="/assets/images/repo_cards/IrohXu_lanenet-lane-detection-pytorch.jpg" width="500" />
-    </a>
-    <p  align="center">
         Review: yet another real-time lane detection. But the source is unfortunately fresh.
     </p>
   </p>
