@@ -10,6 +10,8 @@ Autonomous trains at work.
 
 Autonomous cars at home.
 
+[Best lifestyle blog in Telegram about batman, girls and technologies](https://t.me/shyandsadofeye)
+
 <hr/>
 
 feel free to email me: [ivanov.dale@gmail.com](mailto:ivanov.dale@gmail.com)
