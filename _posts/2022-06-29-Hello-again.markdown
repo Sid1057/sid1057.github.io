@@ -31,13 +31,11 @@ The algorithm is still under development and I will try to create a video for ea
 
 Some information will be private, because you know, I try to do it for commercial purposes. But I will try to make as many open source projects as possible. And the next two repositories that I'll publish are a client for getting controls and visuals data from classic racing games; and a repository for building a self-driving racing agent from the ADAS unit and some navigational abstraction.
 
-Here you can find my videos from the game.
+Here you can find my videos from the game:
 
-<hr/>
     <a href="https://www.youtube.com/playlist?list=PLKomYcf24jhil5BucvGZqPn_GAPkvuoc4">
-        <code>Self-driving in FlatOut2</code>
+        <img src="/assets/images/blogged/dgcr.jpg" width="500" />
     </a>
-<hr/>
 
 Later I will add my speech for important videos and make the material look like a lecture.
 
