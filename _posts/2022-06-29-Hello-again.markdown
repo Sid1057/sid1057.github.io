@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "GitHub Digest 2022-06-29"
-date:   2022-06-29
-last_modified_at: 2022-06-29
+title:  "Hello again!"
+date:   2022-06-28
+last_modified_at: 2022-06-28
 categories: [tldr, experiment]
 tags: [flatout2, startup, fun, adas, self-driving]
 ---
@@ -42,7 +42,3 @@ And wish me luck!
     <img src="/assets/images/blogged/sit_and_work.jpg" width="500" />
   </p>
 </p>
-<hr/>
-
-
-<hr/>
