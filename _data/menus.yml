@@ -16,5 +16,9 @@
   absoluteUrl: true
   url: "https://www.linkedin.com/in/ivan-deylid/"
 
+- title: "Telegram"
+  absoluteUrl: true
+  url: "https://t.me/shyandsadofeye"
+
 - default: menu_about
   url:   "about"
