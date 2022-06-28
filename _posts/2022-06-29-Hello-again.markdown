@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "GitHub Digest 2021-08-17"
-date:   2021-08-17
-last_modified_at: 2021-08-17
+title:  "GitHub Digest 2022-06-29"
+date:   2022-06-29
+last_modified_at: 2022-06-29
 categories: [tldr, experiment]
 tags: [flatout2, startup, fun, adas, self-driving]
 ---
