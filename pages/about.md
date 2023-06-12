@@ -6,15 +6,15 @@ permalink: /about/
 
 Russian self-driving hacker. Love to do cool stuff and love to do it cool.
 
-Autonomous trains at work.
+Autonomous at work.
 
-Autonomous cars at home.
+Autonomous at home.
 
-[Best lifestyle blog in Telegram about batman, girls and technologies](https://t.me/shyandsadofeye)
+[Best ~~lifestyle~~ blog in Telegram about ~~batman, girls and~~ technologies](https://t.me/sid1057)
 
 <hr/>
 
-feel free to email me: [ivanov.dale@gmail.com](mailto:ivanov.dale@gmail.com)
+feel free to email me: [i.deylid@open-adas.com](mailto:i.deylid@open-adas.com)
 
 <hr/>
 

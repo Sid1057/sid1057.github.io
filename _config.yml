@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: sid1057
-email: ivanov.dale@gmail.com
+email: i.deylid@open-adas.com
 name: Ivan Deylid
 description: >- # this means to ignore newlines until "baseurl:"
   computer vision software  ̶h̶a̶c̶k̶e̶r̶ engineer.

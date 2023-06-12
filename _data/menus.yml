@@ -18,7 +18,11 @@
 
 - title: "Telegram"
   absoluteUrl: true
-  url: "https://t.me/shyandsadofeye"
+  url: "https://t.me/sid1057"
+
+- title: "VK"
+  absoluteUrl: true
+  url: "https://vk.com/sid1057"
 
 - default: menu_about
   url:   "about"
